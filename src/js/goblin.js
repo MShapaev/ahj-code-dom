@@ -1,7 +1,5 @@
 export default class Goblin {
   constructor() {
-    this.misses = 0;
-    this.score = 0;
     this.interval = null;
   }
 
@@ -16,5 +14,5 @@ export default class Goblin {
         goblinPosition = random;
       }
     }, 1000);
-  }   
+  }
 }

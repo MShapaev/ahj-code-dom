@@ -1,7 +1,4 @@
-```md
-![CI](https://github.com/MShapaev/ahj-code-dom/actions/workflows/web.yml/badge.svg)
-```
-https://ci.appveyor.com/project/MShapaev/ahj-code-dom
+[![Build status](https://ci.appveyor.com/api/projects/status/8l9xux3tiiqveq0m?svg=true)](https://ci.appveyor.com/project/MShapaev/ahj-code-dom-f40ok)
 
 # Домашнее задание к занятию "2. DOM"
 
